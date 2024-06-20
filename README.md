@@ -11,19 +11,17 @@ The visualizations are based on the following datasets:
 Hospital Service Volume: Includes data on emergency visits, CTAS level breakdowns, patient admissions, discharges, and surgeries completed by zone.
 Hospital Inpatient Occupancy: Provides average total occupancy, mental health and addiction occupancy, and acute occupancy by hospital.
 Emergency Health Services: Contains information on the number of emergency responses, offload intervals, and response times by zone.
-Accessing Primary Care: Covers visits to urgent treatment centers, urgent care centers, primary care clinics, and mobile clinics by zone.
+Accessing Primary Care in Nova Scotia: Covers visits to urgent treatment centers, urgent care centers, primary care clinics, and mobile clinics by zone.
 Visualizations and Insights
 The repository includes:
 
 Interactive Dashboards: Power BI reports that provide a dynamic way to explore healthcare data.
 Detailed Analyses: Insights and interpretations of the visualized data, highlighting important trends and findings.
 Documentation: Information on data sources, visualization methodology, and how to reproduce the visualizations.
-
 Skills and Tools
 Microsoft Office: Excel, Word, PowerPoint
 RDBMS: Experienced with SSMS, PostgreSQL, BigQuery
 Visualization Tools: Power BI
-
 Conclusion
 This repository offers a comprehensive view of healthcare data in Nova Scotia, using visualizations to communicate key insights effectively. By exploring these visualizations, users can gain a deeper understanding of health services and trends, aiding in better decision-making and public awareness.
 
