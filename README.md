@@ -1,6 +1,6 @@
-# Nova-Scotia-Action-For-Health
+Nova Scotia Health Action for Health
 Overview
-Welcome to the Nova Scotia Action for Health repository! This project is dedicated to creating visualizations and deriving insights from healthcare data to provide a clear understanding of health services in Nova Scotia over the past few years. Our goal is to support informed decision-making and enhance public engagement with healthcare metrics across the region.
+Welcome to the Nova Scotia Action for Health repository! This project focuses on creating visualizations and deriving insights from healthcare data to enhance understanding of health services in Nova Scotia over recent years. Our goal is to support informed decision-making and engage the public with healthcare metrics.
 
 Introduction
 This repository contains visualizations and insights derived from various healthcare datasets related to Nova Scotia. The visualizations aim to present data in an accessible manner, helping the public and stakeholders understand trends and key metrics in health services.
@@ -13,17 +13,17 @@ Hospital Inpatient Occupancy: Provides average total occupancy, mental health an
 Emergency Health Services: Contains information on the number of emergency responses, offload intervals, and response times by zone.
 Accessing Primary Care in Nova Scotia: Covers visits to urgent treatment centers, urgent care centers, primary care clinics, and mobile clinics by zone.
 Visualizations and Insights
-The repository includes:
+Explore our repository for:
 
-Interactive Dashboards: Power BI reports that provide a dynamic way to explore healthcare data.
-Detailed Analyses: Insights and interpretations of the visualized data, highlighting important trends and findings.
-Documentation: Information on data sources, visualization methodology, and how to reproduce the visualizations.
+Interactive Dashboards: Power BI reports for dynamic exploration of healthcare data.
+Detailed Analyses: In-depth interpretations of visualized data, highlighting trends and findings.
+Documentation: Information on data sources, visualization methods, and reproduction guidelines.
 Skills and Tools
 Microsoft Office: Excel, Word, PowerPoint
-RDBMS: Experienced with SSMS, PostgreSQL, BigQuery
+RDBMS: SSMS, PostgreSQL, BigQuery
 Visualization Tools: Power BI
 Conclusion
-This repository offers a comprehensive view of healthcare data in Nova Scotia, using visualizations to communicate key insights effectively. By exploring these visualizations, users can gain a deeper understanding of health services and trends, aiding in better decision-making and public awareness.
+This repository provides a comprehensive view of healthcare data in Nova Scotia through visualizations that effectively communicate insights. Explore these visualizations to gain deeper understanding of health services and trends, supporting better decision-making and public awareness.
 
 References
 Action for Health
