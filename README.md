@@ -17,6 +17,12 @@ The visualizations are based on the following datasets:
 - **Emergency Health Services:** Contains information on the number of emergency responses, offload intervals, and response times by zone.
 - **Accessing Primary Care:** Covers visits to urgent treatment centers, urgent care centers, primary care clinics, and mobile clinics by zone.
 
+##Schedule
+- **Week One:** Identifying the data, and gathering the requirements for the overall process.
+- **Week Two:** Data Cleaning and EDA
+- **Week Three:** Finalize the notebook content and data visualization layout.
+- **Week Four:** Create visualizations as per the requirements.
+  
 ## Visualizations and Insights
 
 The repository includes:
